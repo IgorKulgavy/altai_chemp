@@ -1,5 +1,5 @@
 # Student Status Prediction
-> Solving the task of the regional championship of the Altai Territory.
+> Solving the task of the regional championship of the Altai Territory on region DS championship.
 
 ## Table of Contents
 * [General Info](#general-information)
